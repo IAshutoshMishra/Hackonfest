@@ -1,6 +1,7 @@
 {
   "name": "gatsby-starter-elemental",
   "private": true,
+  "homepage": "http://2019.hackonfest.com/",
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "2.1.2",
   "license": "MIT",
